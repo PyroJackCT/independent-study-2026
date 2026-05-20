@@ -3,14 +3,12 @@ title: 3D Printing Applications in Humanities Education
 author: Damian Chavez
 layout: base
 date: 2026-05-20
-thumbnail: 3d-print.jpg
 summary: We will be discussing not just how 3D printing and VR technologies can be used for teaching humanities subjects, but also how much is already being done with them in the hands of real people!
-header-image: 3d-printing-history-featured.jpg
 header-title: 3D Printing today
 header-eyebrow: Let us begin
 header-divider: ✦ ✦ ✦
 header-position: 0px
-autoscroll: true
+autoscroll: false
 tags:
   - History, Science 
 ---
