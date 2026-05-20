@@ -6,3 +6,5 @@ layout: base
 # About 
 
 My Name is Damian. As of May 2026 am a graduate of the University of New Mexico's Department of Arts and Sciences. My Specific Degree is in History and Anthropology. My interests always lay within the human condition. How environments and changing hazards caused us to grow and adapt or struggle. In this, I gained a love for material culture artifacts left behind like ancient tools or examples of human thought process, like Egyptian hieroglyphs and Greek architecture.
+
+My research for this Essay has been more about modern impications of 3D pritning and VR technology in the field of humanities education so just a bit of a different track then my usual academic writings.
