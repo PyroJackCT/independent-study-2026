@@ -10,7 +10,7 @@ My Name is Damian. As of May 2026 am a graduate of the University of New Mexico'
 My research for this Essay has been more about modern impications of 3D pritning and VR technology in the field of humanities education so just a bit of a different track then my usual academic writings.
 
 {% include images/figure.html
-  image-path="/assets/your-story/images/3d-print.jpg"
+  image-path="/your-story/images/3d-print.jpg"
   class="center"
   width="60%"
   caption="simple in concept but diverse in execution"
