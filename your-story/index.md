@@ -15,13 +15,7 @@ tags:
 
   This essay demonstrates the complex relationships between emerging technologies and the methods by which we teach subjects as well as how we can preserve and digitize physical materials to make them not just accessible to more people but have accurate simulations or facsimiles made of them for the purposes of hands-on historical education.
 
-{% include 3d-printing-history-featured.jpg
-  class="center"
-  width="60%"
-  caption=endless possibility
-  image-path="/images/3d-printing-history-featured.jpg"
-%}       
-                               
+                     
                                State of 3D scanning and printing in Humanities Study
 
 
