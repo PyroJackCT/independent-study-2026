@@ -1,24 +1,18 @@
 ---
-title: Forest
-author: Fred Gibbs
+title: 3D Printing Applications in Humanities Education
+author: Damian Chavez
 layout: scrollstory
-date: 2025-07-21
+date: 2026-05-20
 thumbnail: images/forest.jpg
-summary: The kitchen sink of demos. This essay showcases every ScrollStory component — background switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and more.
+summary: We will be discussing not just how 3D printing and VR technologies can be used for teaching humanities subjects but just how much is already being done with them in the hands of real people!
 header-image: images/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg
-header-title: The Forest
-header-eyebrow: ScrollStory Demo
+header-title: 3D Printing today
+header-eyebrow: Let us Begin
 header-divider: ✦ ✦ ✦
-header-subtitle: every component, one essay
-header-caption: Photo by <a href="https://unsplash.com/@sebastian_unrau">Sebastian Unrau</a> on <a href="https://unsplash.com">Unsplash</a>
 header-position: 0px
-toc-section: piano
 autoscroll: true
-
-geo: [44.600000, -110.500000]
-placename: Yellowstone National Park
 tags:
-  - music
+  - History, Science 
 ---
 
 This essay demonstrates everything from Seedling and Sapling, plus background image switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and the full header system. This is the complete cinematic experience.
