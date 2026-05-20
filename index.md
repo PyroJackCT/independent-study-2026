@@ -1,8 +1,8 @@
 ---
-title: ScrollStory Template
+title: Damian Chavez Independent Study 2026
 layout: base
 ---
-
+I'm A Bachelor degree gradute of the University of New Mexico
 # ScrollStory Template for Xanthan
 
 A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
